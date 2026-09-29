@@ -1,0 +1,12 @@
+! Layer 2 security on KL_Management_Switch (access ports fa0/4-11)
+enable
+configure terminal
+interface range fa0/4-11
+ switchport port-security
+ switchport port-security maximum 2
+ switchport port-security violation restrict
+ switchport port-security mac-address sticky
+ exit
+ip dhcp snooping
+ip dhcp snooping vlan 10,20,30,40,50,60,70,80,90,100,110
+no ip dhcp snooping information option
