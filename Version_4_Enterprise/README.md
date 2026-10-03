@@ -85,8 +85,8 @@ Version_4_Enterprise/
 - [x] DHCP (IPv4 and IPv6), DNS, Web, FTP, Mail
 - [x] Port security, DHCP snooping, DAI
 - [x] IoT / RFID devices
-- [ ] Wireless LAN controllers with WPA2 (JB and Penang)
-- [ ] Add full topology diagram and running-config dumps for the core devices
+- [x] Wireless LAN controllers with WPA2 (JB and Penang)
+- [x] Add full topology diagram and running-config dumps for the core devices
 
 ## Skills Demonstrated
 
