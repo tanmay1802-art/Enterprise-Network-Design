@@ -24,7 +24,7 @@ A multi-branch enterprise network built in Cisco Packet Tracer for a fictional c
 | Security | Port security, DHCP snooping, Dynamic ARP Inspection on the access switches |
 | IoT | RFID reader controls a door lock through rules on the IoT server (valid card unlocks, invalid card locks) |
 
-Full address plan: [docs/addressing-table.md](docs/addressing-table.md)
+Full address plan: Version_4_Enterprise/docs/addressing-table.md
 
 ## 3. Verification
 
