@@ -29,7 +29,7 @@ A multi-branch enterprise network built in Cisco Packet Tracer for a fictional c
 | Internet | Primary NAT exit on KL_Router_A, floating default route on KL_Router_B, Backup_ISP router |
 | IoT | RFID reader controls a door lock through rules on the IoT server |
 
-Full address plan: [docs/addressing-table.md](docs/addressing-table.md)
+Full address plan: [docs/addressing-table.md](/docs/addressing-table.md)
 
 ## 3. Verification
 
