@@ -33,7 +33,7 @@ Full address plan: [docs/addressing-table.md](/Version_4_Enterprise/docs/address
 
 ## 3. Verification
 
-All evidence (about 290 screenshots with captions) is in [docs/verification-final.md](docs/verification-final.md). Screenshots are grouped in `screenshots/final-report/`:
+All evidence (about 290 screenshots with captions) is in [docs/verification-final.md](/Version_4_Enterprise/docs/verification-final.md). Screenshots are grouped in `screenshots/final-report/`:
 
 | Folder | Content |
 |---|---|
