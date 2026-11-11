@@ -85,7 +85,7 @@ Version_4_Enterprise/
 - [x] Wireless LAN controllers with WPA2 (JB and Penang)
 - [x] Dual ISP, NAT, backup ISP, RADIUS and Syslog
 - [x] Full topology diagram
-- [ ] Running-config dumps for all devices (see configs/)
+- [x] Running-config dumps for all devices (see configs/)
 
 ## Skills Demonstrated
 
